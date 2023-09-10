@@ -23,7 +23,7 @@ This is a simple GPA calculator built with Streamlit which provides a user-frien
 - [Python](https://www.python.org/)
 
 ## Demo
-Try this [GPA Calculator](https://gpacalculator.streamlit.app/) 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gpacalculator.streamlit.app)
 
 ## Contributing
 Feel free to Contribute and Improve this GPA Calculator by creating a Pull Request or an Issue.
