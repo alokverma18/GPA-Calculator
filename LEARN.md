@@ -22,14 +22,14 @@ pip install streamlit
 ## Python Script
 
 
-### Step 2: Import the modules
+### Import the modules
 ```python
  
 import streamlit as st
  
 ```
 
-## Step 3: Grade -> Point Conversion
+## Grade -> Point Conversion
 ```python
  
 def grade_to_points(grade):
@@ -39,7 +39,7 @@ def grade_to_points(grade):
     return grade_map.get(grade.upper(), 0.0)
  
 ```
-## Step 4: GPA Calculation
+## GPA Calculation
 ```python
  
 def calculate_gpa(credits, grades):
@@ -62,7 +62,7 @@ def calculate_gpa(credits, grades):
  
 ```
 
-## Step 5: User Interface
+## Web Interface
 
 #### Title
 ```python
