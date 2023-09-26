@@ -118,6 +118,14 @@ with col[3]:
  
 ```
 
+## Test Application
+```bash
+  
+streamlit run gpa.py
+  
+```
+This should open this GPA Calculator in your Web Browser
+
 ## Hosting Streamlit App
 
 Streamlit Sharing is a free platform provided by Streamlit that allows you to easily host and share your Streamlit apps with the world. Follow these steps to get your Streamlit app up and running on Streamlit Sharing:
