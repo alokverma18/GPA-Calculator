@@ -57,10 +57,10 @@ if st.button("Calculate GPA"):
 # Footer
 col = st.columns(4)
 
-'''
-with col[3]:
-    st.write("Made with ❤ by [Alok](https://github.com/alokverma18/gpa-calculator)")
-'''
+
+#with col[3]:
+#    st.write("Made with ❤ by [Alok](https://github.com/alokverma18/gpa-calculator)")
+
 
 
 
