@@ -55,7 +55,7 @@ if st.button("Calculate GPA"):
 
 
 # Footer
-col = st.columns(4)
+#col = st.columns(4)
 
 
 #with col[3]:
